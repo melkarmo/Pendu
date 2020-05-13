@@ -8,4 +8,4 @@ Le code mêle Programmation Orientée Objet et élément graphiques de la biblio
 
 ## Captures d'écran
 
-![pendu](https://user-images.githubusercontent.com/35910546/63022208-ae507a80-bea2-11e9-911a-986ee066c655.png)
+![pendu](https://raw.githubusercontent.com/melkarmo/Pendu/master/screenshot.png)
